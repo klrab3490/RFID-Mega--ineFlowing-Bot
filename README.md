@@ -1,4 +1,4 @@
-📚 # Automated Library Management System with RFID Integration 📖
+# 📚 Automated Library Management System with RFID Integration 📖
 
 ## 🌟 Abstract
 
@@ -32,8 +32,6 @@ This project introduces an Automated Library Management System (LMS) enhanced by
 1. `esp8266_webserve.ino`: 🌐 This file contains the code for the ESP8266 NodeMCU, which serves as a web server, allowing users to browse available books and select desired titles by their unique IDs (UIDs).
 
 2. `mega_rfid_linefollow.ino`: 🔎 This file includes the code for the RFID reader module, which is responsible for scanning RFID tags attached to books and communicating with the ESP8266 NodeMCU to match the scanned UID with the user's request.
-
-3. `motor_control.ino`: ⚡ This file contains the code for controlling the DC motors and handling the physical movement of the book retrieval system based on input from RFID readers and infrared sensors.
 
 ## 🧩 Components
 
